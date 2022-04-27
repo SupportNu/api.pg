@@ -1,0 +1,2 @@
+# api.pg
+application/json
